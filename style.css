@@ -38,7 +38,7 @@ p {
 	background-image: url("http://hotcheetosminecraft.github.io/background.jpg");
 	background-size: cover;
 	background-position: center;
-	-webkit-filter: grayscale(1) brightness(0.3);
+	filter: grayscale(1) brightness(0.3);
 }
 
 #logo {
